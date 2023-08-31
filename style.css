@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding-top: 1.5%;
+   
+}
+form{
+    max-width: 840px;
+    margin-left:18% ;
+}
+.signupform{
+    padding: 2%;
+
+}
